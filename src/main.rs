@@ -1,8 +1,8 @@
-///two of the crates utilized for the snake game, rand for the food pellets for example and piston window so set the game up.
+// two of the crates utilized for the snake game, rand for the food pellets for example and piston window so set the game up.
 extern crate piston_window;
 extern crate rand;
 
-///the other modules that make up the entire snake game
+// the other modules that make up the entire snake game
 mod snake;
 mod game;
 mod drawing;
