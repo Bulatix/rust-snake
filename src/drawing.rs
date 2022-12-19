@@ -1,3 +1,4 @@
+///This is the initial setup to the window where you play the Snake game.
 
 use piston_window::Context;
 use piston_window::G2d;
